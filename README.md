@@ -30,6 +30,16 @@ examen-final-modelado-software-2026/
 
 ## Instrucciones Rapidas
 
+## Como Rendir y Entregar
+
+1. Haz un fork de este repositorio en tu cuenta personal de GitHub.
+2. Trabaja durante el examen unicamente sobre tu fork.
+3. Realiza commits y push de tus avances a tu fork personal.
+4. Completa los archivos pedidos dentro de este mismo esquema de carpetas.
+5. Al finalizar, entrega al docente el enlace de tu fork o el enlace del Pull Request si fue solicitado.
+
+---
+
 ### Parte 1: Analisis Critico
 1. Leer material-examen/parte1-caso-uso-errores.md
 2. Identificar al menos 5 errores
@@ -64,5 +74,11 @@ examen-final-modelado-software-2026/
 - Documentacion del curso
 - Tus apuntes
 - draw.io, Mermaid o herramienta equivalente
+
+## Recordatorio de Entrega
+
+- No debes trabajar directamente sobre el repositorio base del examen.
+- La evaluacion se realizara sobre tu fork personal y sus pushes.
+- Conserva visible el historial de commits realizado durante el examen.
 
 No esta permitido usar asistentes de IA durante el examen.

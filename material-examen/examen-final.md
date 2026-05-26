@@ -16,6 +16,15 @@
 
 ---
 
+## Modalidad de Trabajo y Entrega
+
+1. Debes hacer un fork de este repositorio en tu cuenta personal.
+2. Debes rendir trabajando sobre tu fork, no sobre el repositorio base.
+3. Debes realizar commits y push durante el examen para dejar evidencia de tu trabajo.
+4. Al finalizar, debes compartir con el docente el enlace de tu fork o del Pull Request si fue solicitado.
+
+---
+
 ## Parte 1: Analisis Critico
 
 Debes leer un caso de uso con errores intencionales e identificar al menos 5 errores.
@@ -66,3 +75,4 @@ Archivo de apoyo:
 2. Prioriza completitud y claridad.
 3. En la Parte 2, construye primero el caso de uso y luego los diagramas.
 4. En la defensa oral, usa terminologia tecnica precisa.
+5. Verifica que tus cambios esten subidos a tu fork antes de dar por terminada la entrega.
